@@ -7,7 +7,7 @@ repos set up for use in Sublime Text.
 ## Instructions
 
 After compiling the packages on the various environments using `pyopenssl-build`
-and creating a new release with all of the output file, check out the following
+and creating a new release with all of the output files, check out the following
 repos:
 
 ```bash
